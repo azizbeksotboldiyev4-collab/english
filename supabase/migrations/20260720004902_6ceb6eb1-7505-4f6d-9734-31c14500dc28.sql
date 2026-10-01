@@ -1,0 +1,1 @@
+DROP FUNCTION IF EXISTS public.check_listening_answer(uuid, text);

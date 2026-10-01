@@ -1,0 +1,27 @@
+{
+  "name": "Azizbek EDU — Ingliz tilini o'zbek tilida o'rganing",
+  "short_name": "Azizbek EDU",
+  "description": "A1 dan C1 gacha ingliz tilini o'zbek tilida bepul o'rganing. AI ustoz, interaktiv darslar, so'z o'yinlari va reyting tizimi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#58CC02",
+  "lang": "uz",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+project_id = "kuoeitxmirqweiubqfou"
+
+[functions.ai-tutor]
+verify_jwt = false
+
+[functions.generate-vocab]
+verify_jwt = false

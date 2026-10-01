@@ -1,0 +1,1 @@
+ALTER TABLE public.vocab_words ADD COLUMN pronunciation text NOT NULL DEFAULT '';
